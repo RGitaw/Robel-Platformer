@@ -5,7 +5,7 @@
 global.coins = 0;
 global.points = 0;
 
-hp =5;
+hp = 5;
 iFrames = false;
 //how many pixels the player will move per frame
 xSpeed = 4;

@@ -54,7 +54,7 @@ if place_meeting(x, y+ yVector, Owall)
 		yVector = 0;
  
 	}
-y = y + yVector;
+ y = y + yVector;
 
 // to jump we need to check 2 things
 //first check to see if the pixels below us is ground

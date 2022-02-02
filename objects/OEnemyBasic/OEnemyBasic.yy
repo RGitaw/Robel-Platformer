@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite4",
-    "path": "sprites/Sprite4/Sprite4.yy",
+    "name": "Senemy",
+    "path": "sprites/Senemy/Senemy.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "OEnemyBasic",
+  "name": "OenemyBasic",
   "tags": [],
   "resourceType": "GMObject",
 }
